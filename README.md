@@ -26,7 +26,7 @@ This project includes two Python scripts utilizing Selenium and BeautifulSoup to
 1. Clone the repository:
     ```bash
     git clone https://github.com/Azaki21421/PixivFollowingPars.git
-    cd pixiv-following-automation
+    cd PixivFollowingPars
     ```
 
 2. Install the required dependencies:
