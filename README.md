@@ -10,7 +10,6 @@ This project includes two Python scripts utilizing Selenium and BeautifulSoup to
   - [Following Data Collection Script](#following-data-collection-script)
   - [Auto-Follow Script](#auto-follow-script)
 - [Requirements](#requirements)
-- [Important Notes](#important-notes)
 - [License](#license)
 
 ## Description
@@ -78,11 +77,6 @@ This project includes two Python scripts utilizing Selenium and BeautifulSoup to
 
 Install dependencies using `pip install -r requirements.txt`.
 
-## Important Notes
-
-Pixiv may limit access if it detects automated behavior. To avoid restrictions:
-- Set pauses between actions to reduce chances of being blocked.
-- Avoid excessive automation, which may violate Pixiv’s terms of service.
 
 ## License
 
